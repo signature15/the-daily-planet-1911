@@ -1,14 +1,19 @@
 /**
- * One Day in World News - Thursday 19 November 2026.
- * This repository's entry is entry.png: a cream newsprint broadsheet that
- * sums up the whole world's news for Thursday 19 November 2026 on a single
- * 1024x1024 page. The masthead and red date tab set the day; an eight-cell
- * day-in-numbers strip carries the key figures (ICJ 9-6 genocide vote,
- * Anthropic's $81bn IPO price, Kumamoto's M5.7 quake, UK inflation at 3.6%);
- * three hero cards lead (the Shenzhen three-way summit, the ICJ ruling,
- * the Nasdaq debut), followed by five secondary and seven tertiary cards
- * and twenty-four region-tagged evening briefs; a date-check footer
- * separates Wednesday carryover from the day's real events.
+ * entry.png - one page of world news for Thursday 19 November 2026.
+ *
+ * The image is a cream newsprint broadsheet covering the entire planet's
+ * day on a single sheet. At the top sits a masthead carrying the date on
+ * a red tab. Directly beneath it, a day-in-numbers strip counts out the
+ * headline figures: the ICJ's 9-6 genocide vote, Anthropic's $81bn IPO,
+ * Kumamoto's M5.7 quake, and UK inflation holding at 3.6%.
+ *
+ * Three hero cards carry the day's heaviest stories - the Shenzhen
+ * three-way summit, the ICJ's Myanmar ruling, and Anthropic's Nasdaq
+ * debut. Below them, five secondary cards widen the picture and seven
+ * tertiary cards fill out the long tail of the day. Twenty-four
+ * region-tagged evening briefs run along the bottom, and a date-check
+ * footer closes the page by separating true 19 November events from any
+ * Wednesday carryover.
  */
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
