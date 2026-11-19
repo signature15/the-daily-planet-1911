@@ -34,6 +34,13 @@ Stories were picked for breadth across regions and fields - politics,
 courts, markets, science, quakes, sport - so the page reads as the whole
 planet's day at a glance.
 
+## Design notes
+
+The layout choices behind the poster - the cream newsprint ground, the red
+date tab, the eight-cell numbers strip, how stories were ranked into hero /
+secondary / tertiary / briefs, and the date-check footer - are written up in
+[NOTES.md](./NOTES.md).
+
 ## How to run
 
 Node 22, standard library only. No dependencies to install, no build step,
