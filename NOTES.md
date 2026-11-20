@@ -2,14 +2,13 @@
 
 ## Design notes
 
-These notes document the layout decisions behind `entry.png`, a one-page
-broadsheet edition built for a single, specific day of world news: Thursday
-19 November 2026. The page carries 38 stories drawn from 7 regions, and
-every design choice below exists to make that count legible - from the red
-date tab that pins the page to its day, through the numbered stories that
-let a reader verify the 38-story tally at a glance, to the footer that
-separates what actually happened on Thursday 19 November 2026 from events
-that merely carried over from the day before.
+These notes document the layout decisions behind `entry.png`, THE DAY, ALL OF IT:
+a cream one-page broadsheet edition for Thursday 19 November 2026. The page
+carries 40 stories drawn from 7 regions, with a stat band, a visible region
+tally, and a date-check footer that keeps the edition anchored to its day.
+Every design choice below supports that complete daily record, from the red
+date tab and numbered stories to the footer separating Thursday's events from
+material that merely carried over from the day before.
 
 1. **Cream paper, not white.** The background is a warm newsprint cream
    because the format is quoting the physical broadsheet: white reads as a
